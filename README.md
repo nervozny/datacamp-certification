@@ -1,2 +1,1 @@
-# datacamp-certification
-Data Scientist Professional Case Study by DataCamp
+This is the final stage of DataCamp certification for Professional Data Scientist.
